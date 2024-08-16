@@ -5,3 +5,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/KimberlyJuarezEscamilla/Music.git
 git push -u origin main 
+ui.notify('Stop! Remember, don't download it illegally!', timeout=0, close_button= 'Ok')
+.props('persistent') 
