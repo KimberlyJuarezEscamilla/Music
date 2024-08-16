@@ -1,0 +1,14 @@
+"#Music" >>README.md
+git innit
+git add README.md
+git commit -m "first commit" 
+git branch -M main
+git remote add origin https://github.com/KimberlyJuarezEscamilla/Music.git
+git push -u origin main 
+
+git detect music download on device
+git check if it is from an illegal website
+git if from an illegal website, then keep notifying 
+
+ui.notify('Stop! Remember, do not download it illegally!', timeout=0, close_button= 'Ok')
+.props('persistent') 
